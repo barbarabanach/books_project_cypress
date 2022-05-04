@@ -1,6 +1,6 @@
 # books_project_cypress
 
-1 npm install
-2 npm run serve
-3 ./node_modules/.bin/cypress open
-4 tests files are in cypress/integration
+<li>npm install</li>
+<li>npm run serve</li>
+<li>./node_modules/.bin/cypress open</li>
+<li><tests files are in cypress/integration/li>
